@@ -1,0 +1,12 @@
+{
+  "name": "rainbow",
+  "version": "1.0.0",
+  "description": "Getting a Rainbow Role with a Discord Bot **using Discord.JS**",
+  "main": "RainbowRole.js",
+  "scripts": {
+"start": "node RainbowRole.js"
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
